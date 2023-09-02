@@ -1,0 +1,19 @@
+body{
+    background-image: url(foot.jpg.jpg);
+     background-size: cover;
+     color: aliceblue;
+}
+body{
+    margin-left: 20%;
+    margin-top: 200px;
+}
+h1{
+   color: black;
+   background-color: goldenrod;width: 150px;
+}
+input:active{
+    transform: scale(1.5);
+}
+input{
+    transition: all 1.5s;
+}
